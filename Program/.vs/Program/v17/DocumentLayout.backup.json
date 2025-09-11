@@ -1,9 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\hkdav\\OneDrive\\Desktop\\Program\\",
+  "WorkspaceRootPath": "C:\\Users\\hkdav\\OneDrive\\Desktop\\Game_programming3\\Program\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{647B361D-5AE8-423F-A872-F9C742DA1DDA}|Program.vcxproj|C:\\Users\\hkdav\\OneDrive\\Desktop\\Program\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{536A8A43-8F4F-42A7-B94D-6698DB57D248}|..\\Class1st (Stream)\\Class1st (Stream).vcxproj|C:\\Users\\hkdav\\OneDrive\\Desktop\\Game_programming3\\Class1st (Stream)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647B361D-5AE8-423F-A872-F9C742DA1DDA}|Program.vcxproj|C:\\Users\\hkdav\\OneDrive\\Desktop\\Game_programming3\\Program\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{647B361D-5AE8-423F-A872-F9C742DA1DDA}|Program.vcxproj|solutionrelative:Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -19,12 +22,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\hkdav\\OneDrive\\Desktop\\Game_programming3\\Class1st (Stream)\\Source.cpp",
+              "RelativeDocumentMoniker": "..\\Class1st (Stream)\\Source.cpp",
+              "ToolTip": "C:\\Users\\hkdav\\OneDrive\\Desktop\\Game_programming3\\Class1st (Stream)\\Source.cpp",
+              "RelativeToolTip": "..\\Class1st (Stream)\\Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-11T09:13:04.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cpp",
-              "DocumentMoniker": "C:\\Users\\hkdav\\OneDrive\\Desktop\\Program\\Program.cpp",
+              "DocumentMoniker": "C:\\Users\\hkdav\\OneDrive\\Desktop\\Game_programming3\\Program\\Program.cpp",
               "RelativeDocumentMoniker": "Program.cpp",
-              "ToolTip": "C:\\Users\\hkdav\\OneDrive\\Desktop\\Program\\Program.cpp*",
-              "RelativeToolTip": "Program.cpp*",
-              "ViewState": "AgIAACIAAAAAAAAAAAAAADsAAAAPAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\hkdav\\OneDrive\\Desktop\\Game_programming3\\Program\\Program.cpp",
+              "RelativeToolTip": "Program.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-09-10T09:13:37.643Z",
               "EditorCaption": ""
