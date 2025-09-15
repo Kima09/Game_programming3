@@ -64,22 +64,22 @@ int main()
 #pragma endregion
 
 #pragma region 동적 할당
-    int* pointer = new int;
-    *pointer = 10;
-    std::cout << "pointer 변수가 가리키는 값: " << *pointer << std::endl;
-    delete pointer;
-    pointer = new int[5];
-
-    for (int i = 0; i < 5;i++)
-    {
-        pointer[i] = (i + 1) * 10;
-        std::cout << pointer[i] << std::endl;
-    }
+    //int* pointer = new int;
+    //*pointer = 10;
+    //std::cout << "pointer 변수가 가리키는 값: " << *pointer << std::endl;
+    //delete pointer;
+    //pointer = new int[5];
+    //
+    //for (int i = 0; i < 5;i++)
+    //{
+    //    pointer[i] = (i + 1) * 10;
+    //    std::cout << pointer[i] << std::endl;
+    //}
 
     //delete pointer;
     // delete pointer의 경우 메모리 누수가 발생합니다.
 
-    delete[] pointer;
+    //delete[] pointer;
 #pragma endregion
     return 0;
 }
