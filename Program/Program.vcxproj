@@ -123,11 +123,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Consumable.cpp" />
+    <ClCompile Include="Monster.cpp" />
     <ClCompile Include="Program.cpp" />
+    <ClCompile Include="Slime.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Consumable.h" />
+    <ClInclude Include="Monster.h" />
+    <ClInclude Include="Slime.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
