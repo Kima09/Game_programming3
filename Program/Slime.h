@@ -5,5 +5,7 @@ class Slime :
 {
 public:
     Slime();
+
+    void Describe();
 };
 
