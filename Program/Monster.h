@@ -11,6 +11,8 @@ protected:
 	const char* description;
 
 public:
+	virtual ~Monster();
+
 	void Stat();
 
 	virtual void Describe();

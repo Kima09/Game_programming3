@@ -5,7 +5,8 @@ class Golem :
 {
 public:
     Golem();
+    virtual ~Golem() override;
 
-    void Describe();
+    virtual void Describe() override;
 };
 

@@ -1,7 +1,11 @@
 #include "Monster.h"
 
-#include <iostream> 
-using namespace std;
+#include "stdafx.h"
+
+Monster::~Monster()
+{
+	cout << "Monster deleted" << endl;
+}
 
 void Monster::Stat()
 {

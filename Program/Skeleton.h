@@ -5,7 +5,8 @@ class Skeleton :
 {
 public:
     Skeleton();
+    virtual ~Skeleton() override;
 
-    void Describe();
+    virtual void Describe() override;
 };
 
