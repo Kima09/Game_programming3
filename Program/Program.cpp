@@ -1,42 +1,22 @@
 ﻿#include "stdafx.h"
-#include "Language.h"
-
-template <typename T>
-bool Same(T left, T right)
-{
-	return left == right;
-}
-
-template <>
-bool Same(Language left, Language right)
-{
-	return left.Name() == right.Name();
-}
-//클래스를 위한 특수화 템플릿
 
 int main()
 {
-#pragma region 템플릿
-//데이터 형식에 의존하지 않고, 하나의 값이 여러 다른 데이터
-//형식을 가질 수 있는 기술에 중점을 두어 재사용성을 높일 수
-//있는 기능입니다.
+#pragma region 스마트 포인터
+	//포인터를 사용하는 동시에 자동으로 메모리 관리를 해주며,
+	//경계 확인과 같은 추가 기능을 제공하는 포인터입니다.
 
-	//cout << Same('A','A')<<endl;
-	//cout << Same(5,10) << endl;
-	//cout << Same(17.5f, 20.125f) << endl;
-	//cout << Same("Head","Head") << endl;
-
-#pragma endregion
-
-#pragma region 템플릿 특수화
-//특정 자료형에 대해 다르게 처리하고 싶은 경우
-//특정한 자료형만 다른 형식으로 동작시키는 기능입니다.
-	//Language programLanguage1;
-	//programLanguage1.Initialize("Java");
-	//Language programLanguage2;
-	//programLanguage2.Initialize("Java");
+	//int* ptr2 = nullptr;
 	//
-	//cout << Same(programLanguage1, programLanguage2) << endl;
+	//{
+	//	int* ptr1 = new int;
+	//
+	//	*ptr1 = 100;
+	//
+	//	ptr2 = ptr1;
+	//}
+	////ptr1은 외부이기에 접근할 수 없습니다.
+	//cout << *ptr2 << endl;
 
 #pragma endregion
 
