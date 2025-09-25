@@ -7,6 +7,34 @@
       "RelativeMoniker": "D:0:0:{647B361D-5AE8-423F-A872-F9C742DA1DDA}|Program.vcxproj|solutionrelative:Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{647B361D-5AE8-423F-A872-F9C742DA1DDA}|Program.vcxproj|C:\\Users\\hkdav\\OneDrive\\Desktop\\Game_programming3\\Program\\Resource.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{647B361D-5AE8-423F-A872-F9C742DA1DDA}|Program.vcxproj|solutionrelative:Resource.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647B361D-5AE8-423F-A872-F9C742DA1DDA}|Program.vcxproj|C:\\Users\\hkdav\\OneDrive\\Desktop\\Game_programming3\\Program\\Resource.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{647B361D-5AE8-423F-A872-F9C742DA1DDA}|Program.vcxproj|solutionrelative:Resource.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647B361D-5AE8-423F-A872-F9C742DA1DDA}|Program.vcxproj|C:\\Users\\hkdav\\OneDrive\\Desktop\\Game_programming3\\Program\\Material.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{647B361D-5AE8-423F-A872-F9C742DA1DDA}|Program.vcxproj|solutionrelative:Material.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647B361D-5AE8-423F-A872-F9C742DA1DDA}|Program.vcxproj|C:\\Users\\hkdav\\OneDrive\\Desktop\\Game_programming3\\Program\\Material.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{647B361D-5AE8-423F-A872-F9C742DA1DDA}|Program.vcxproj|solutionrelative:Material.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647B361D-5AE8-423F-A872-F9C742DA1DDA}|Program.vcxproj|C:\\Users\\hkdav\\OneDrive\\Desktop\\Game_programming3\\Program\\stdafx.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{647B361D-5AE8-423F-A872-F9C742DA1DDA}|Program.vcxproj|solutionrelative:stdafx.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E90C5907-3C8D-4E24-968E-78322E7A5E4E}|..\\Class7th (Encapsulation)\\Class7th (Encapsulation).vcxproj|C:\\Users\\hkdav\\OneDrive\\Desktop\\Game_programming3\\Program\\Vector2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E90C5907-3C8D-4E24-968E-78322E7A5E4E}|..\\Class7th (Encapsulation)\\Class7th (Encapsulation).vcxproj|solutionrelative:Vector2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E90C5907-3C8D-4E24-968E-78322E7A5E4E}|..\\Class7th (Encapsulation)\\Class7th (Encapsulation).vcxproj|C:\\Users\\hkdav\\OneDrive\\Desktop\\Game_programming3\\Program\\Vector2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E90C5907-3C8D-4E24-968E-78322E7A5E4E}|..\\Class7th (Encapsulation)\\Class7th (Encapsulation).vcxproj|solutionrelative:Vector2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{949E2C45-F0B1-4109-97C2-E648CBE919F1}|..\\Class8th (Template)\\Class8th (Template).vcxproj|C:\\Users\\hkdav\\OneDrive\\Desktop\\Game_programming3\\Class8th (Template)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
@@ -24,18 +52,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{949E2C45-F0B1-4109-97C2-E648CBE919F1}|..\\Class8th (Template)\\Class8th (Template).vcxproj|C:\\Users\\hkdav\\OneDrive\\Desktop\\Game_programming3\\Program\\Language.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{949E2C45-F0B1-4109-97C2-E648CBE919F1}|..\\Class8th (Template)\\Class8th (Template).vcxproj|solutionrelative:Language.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E90C5907-3C8D-4E24-968E-78322E7A5E4E}|..\\Class7th (Encapsulation)\\Class7th (Encapsulation).vcxproj|C:\\Users\\hkdav\\OneDrive\\Desktop\\Game_programming3\\Program\\Vector2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E90C5907-3C8D-4E24-968E-78322E7A5E4E}|..\\Class7th (Encapsulation)\\Class7th (Encapsulation).vcxproj|solutionrelative:Vector2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E90C5907-3C8D-4E24-968E-78322E7A5E4E}|..\\Class7th (Encapsulation)\\Class7th (Encapsulation).vcxproj|C:\\Users\\hkdav\\OneDrive\\Desktop\\Game_programming3\\Program\\Vector2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E90C5907-3C8D-4E24-968E-78322E7A5E4E}|..\\Class7th (Encapsulation)\\Class7th (Encapsulation).vcxproj|solutionrelative:Vector2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{647B361D-5AE8-423F-A872-F9C742DA1DDA}|Program.vcxproj|C:\\Users\\hkdav\\OneDrive\\Desktop\\Game_programming3\\Program\\stdafx.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{647B361D-5AE8-423F-A872-F9C742DA1DDA}|Program.vcxproj|solutionrelative:stdafx.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E90C5907-3C8D-4E24-968E-78322E7A5E4E}|..\\Class7th (Encapsulation)\\Class7th (Encapsulation).vcxproj|C:\\Users\\hkdav\\OneDrive\\Desktop\\Game_programming3\\Class7th (Encapsulation)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
@@ -122,67 +138,67 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Container.cpp",
-              "DocumentMoniker": "C:\\Users\\hkdav\\OneDrive\\Desktop\\Game_programming3\\Program\\Container.cpp",
-              "RelativeDocumentMoniker": "Container.cpp",
-              "ToolTip": "C:\\Users\\hkdav\\OneDrive\\Desktop\\Game_programming3\\Program\\Container.cpp",
-              "RelativeToolTip": "Container.cpp",
-              "ViewState": "AgIAAAwAAAAAAAAAAADwvyQAAAABAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Resource.cpp",
+              "DocumentMoniker": "C:\\Users\\hkdav\\OneDrive\\Desktop\\Game_programming3\\Program\\Resource.cpp",
+              "RelativeDocumentMoniker": "Resource.cpp",
+              "ToolTip": "C:\\Users\\hkdav\\OneDrive\\Desktop\\Game_programming3\\Program\\Resource.cpp",
+              "RelativeToolTip": "Resource.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-24T10:24:40.029Z",
+              "WhenOpened": "2025-09-25T10:10:19.202Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Language.cpp",
-              "DocumentMoniker": "C:\\Users\\hkdav\\OneDrive\\Desktop\\Game_programming3\\Program\\Language.cpp",
-              "RelativeDocumentMoniker": "Language.cpp",
-              "ToolTip": "C:\\Users\\hkdav\\OneDrive\\Desktop\\Game_programming3\\Program\\Language.cpp",
-              "RelativeToolTip": "Language.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-24T10:23:51.844Z",
+              "Title": "Resource.h",
+              "DocumentMoniker": "C:\\Users\\hkdav\\OneDrive\\Desktop\\Game_programming3\\Program\\Resource.h",
+              "RelativeDocumentMoniker": "Resource.h",
+              "ToolTip": "C:\\Users\\hkdav\\OneDrive\\Desktop\\Game_programming3\\Program\\Resource.h",
+              "RelativeToolTip": "Resource.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-25T10:09:34.716Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Language.h",
-              "DocumentMoniker": "C:\\Users\\hkdav\\OneDrive\\Desktop\\Game_programming3\\Program\\Language.h",
-              "RelativeDocumentMoniker": "Language.h",
-              "ToolTip": "C:\\Users\\hkdav\\OneDrive\\Desktop\\Game_programming3\\Program\\Language.h",
-              "RelativeToolTip": "Language.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-09-24T10:23:50.463Z",
+              "DocumentIndex": 6,
+              "Title": "Vector2.cpp",
+              "DocumentMoniker": "C:\\Users\\hkdav\\OneDrive\\Desktop\\Game_programming3\\Program\\Vector2.cpp",
+              "RelativeDocumentMoniker": "Vector2.cpp",
+              "ToolTip": "C:\\Users\\hkdav\\OneDrive\\Desktop\\Game_programming3\\Program\\Vector2.cpp",
+              "RelativeToolTip": "Vector2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-22T10:12:24.994Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Container.h",
-              "DocumentMoniker": "C:\\Users\\hkdav\\OneDrive\\Desktop\\Game_programming3\\Program\\Container.h",
-              "RelativeDocumentMoniker": "Container.h",
-              "ToolTip": "C:\\Users\\hkdav\\OneDrive\\Desktop\\Game_programming3\\Program\\Container.h",
-              "RelativeToolTip": "Container.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvxAAAAACAAAAAAAAAA==",
+              "Title": "Material.h",
+              "DocumentMoniker": "C:\\Users\\hkdav\\OneDrive\\Desktop\\Game_programming3\\Program\\Material.h",
+              "RelativeDocumentMoniker": "Material.h",
+              "ToolTip": "C:\\Users\\hkdav\\OneDrive\\Desktop\\Game_programming3\\Program\\Material.h",
+              "RelativeToolTip": "Material.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-09-24T10:23:48.916Z",
+              "WhenOpened": "2025-09-25T09:06:49.52Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Source.cpp",
-              "DocumentMoniker": "C:\\Users\\hkdav\\OneDrive\\Desktop\\Game_programming3\\Class8th (Template)\\Source.cpp",
-              "RelativeDocumentMoniker": "..\\Class8th (Template)\\Source.cpp",
-              "ToolTip": "C:\\Users\\hkdav\\OneDrive\\Desktop\\Game_programming3\\Class8th (Template)\\Source.cpp",
-              "RelativeToolTip": "..\\Class8th (Template)\\Source.cpp",
-              "ViewState": "AgIAAFoAAAAAAAAAAAAAAGUAAAABAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Material.cpp",
+              "DocumentMoniker": "C:\\Users\\hkdav\\OneDrive\\Desktop\\Game_programming3\\Program\\Material.cpp",
+              "RelativeDocumentMoniker": "Material.cpp",
+              "ToolTip": "C:\\Users\\hkdav\\OneDrive\\Desktop\\Game_programming3\\Program\\Material.cpp",
+              "RelativeToolTip": "Material.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-24T10:23:07.143Z",
+              "WhenOpened": "2025-09-25T09:07:09.375Z",
               "EditorCaption": ""
             },
             {
@@ -193,22 +209,10 @@
               "RelativeDocumentMoniker": "Program.cpp",
               "ToolTip": "C:\\Users\\hkdav\\OneDrive\\Desktop\\Game_programming3\\Program\\Program.cpp",
               "RelativeToolTip": "Program.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADcAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-09-10T09:13:37.643Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "stdafx.h",
-              "DocumentMoniker": "C:\\Users\\hkdav\\OneDrive\\Desktop\\Game_programming3\\Program\\stdafx.h",
-              "RelativeDocumentMoniker": "stdafx.h",
-              "ToolTip": "C:\\Users\\hkdav\\OneDrive\\Desktop\\Game_programming3\\Program\\stdafx.h",
-              "RelativeToolTip": "stdafx.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-09-22T10:22:47.831Z"
             },
             {
               "$type": "Document",
@@ -225,20 +229,84 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Vector2.cpp",
-              "DocumentMoniker": "C:\\Users\\hkdav\\OneDrive\\Desktop\\Game_programming3\\Program\\Vector2.cpp",
-              "RelativeDocumentMoniker": "Vector2.cpp",
-              "ToolTip": "C:\\Users\\hkdav\\OneDrive\\Desktop\\Game_programming3\\Program\\Vector2.cpp",
-              "RelativeToolTip": "Vector2.cpp",
-              "ViewState": "AgIAABUAAAAAAAAAAADwvx0AAAABAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\hkdav\\OneDrive\\Desktop\\Game_programming3\\Class8th (Template)\\Source.cpp",
+              "RelativeDocumentMoniker": "..\\Class8th (Template)\\Source.cpp",
+              "ToolTip": "C:\\Users\\hkdav\\OneDrive\\Desktop\\Game_programming3\\Class8th (Template)\\Source.cpp",
+              "RelativeToolTip": "..\\Class8th (Template)\\Source.cpp",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAGUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-22T10:12:24.994Z",
+              "WhenOpened": "2025-09-24T10:23:07.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "stdafx.h",
+              "DocumentMoniker": "C:\\Users\\hkdav\\OneDrive\\Desktop\\Game_programming3\\Program\\stdafx.h",
+              "RelativeDocumentMoniker": "stdafx.h",
+              "ToolTip": "C:\\Users\\hkdav\\OneDrive\\Desktop\\Game_programming3\\Program\\stdafx.h",
+              "RelativeToolTip": "stdafx.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-22T10:22:47.831Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "Language.cpp",
+              "DocumentMoniker": "C:\\Users\\hkdav\\OneDrive\\Desktop\\Game_programming3\\Program\\Language.cpp",
+              "RelativeDocumentMoniker": "Language.cpp",
+              "ToolTip": "C:\\Users\\hkdav\\OneDrive\\Desktop\\Game_programming3\\Program\\Language.cpp",
+              "RelativeToolTip": "Language.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-24T10:23:51.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Container.cpp",
+              "DocumentMoniker": "C:\\Users\\hkdav\\OneDrive\\Desktop\\Game_programming3\\Program\\Container.cpp",
+              "RelativeDocumentMoniker": "Container.cpp",
+              "ToolTip": "C:\\Users\\hkdav\\OneDrive\\Desktop\\Game_programming3\\Program\\Container.cpp",
+              "RelativeToolTip": "Container.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvyQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-24T10:24:40.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Container.h",
+              "DocumentMoniker": "C:\\Users\\hkdav\\OneDrive\\Desktop\\Game_programming3\\Program\\Container.h",
+              "RelativeDocumentMoniker": "Container.h",
+              "ToolTip": "C:\\Users\\hkdav\\OneDrive\\Desktop\\Game_programming3\\Program\\Container.h",
+              "RelativeToolTip": "Container.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-24T10:23:48.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Language.h",
+              "DocumentMoniker": "C:\\Users\\hkdav\\OneDrive\\Desktop\\Game_programming3\\Program\\Language.h",
+              "RelativeDocumentMoniker": "Language.h",
+              "ToolTip": "C:\\Users\\hkdav\\OneDrive\\Desktop\\Game_programming3\\Program\\Language.h",
+              "RelativeToolTip": "Language.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-24T10:23:50.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\hkdav\\OneDrive\\Desktop\\Game_programming3\\Class7th (Encapsulation)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class7th (Encapsulation)\\Source.cpp",
@@ -250,7 +318,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "Golem.h",
               "DocumentMoniker": "C:\\Users\\hkdav\\OneDrive\\Desktop\\Game_programming3\\Program\\Golem.h",
               "RelativeDocumentMoniker": "Golem.h",
@@ -262,7 +330,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "Slime.h",
               "DocumentMoniker": "C:\\Users\\hkdav\\OneDrive\\Desktop\\Game_programming3\\Program\\Slime.h",
               "RelativeDocumentMoniker": "Slime.h",
@@ -274,7 +342,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "Transform.h",
               "DocumentMoniker": "C:\\Users\\hkdav\\OneDrive\\Desktop\\Game_programming3\\Program\\Transform.h",
               "RelativeDocumentMoniker": "Transform.h",
@@ -286,7 +354,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "Skeleton.h",
               "DocumentMoniker": "C:\\Users\\hkdav\\OneDrive\\Desktop\\Game_programming3\\Program\\Skeleton.h",
               "RelativeDocumentMoniker": "Skeleton.h",
@@ -298,7 +366,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 21,
               "Title": "Wardrobe.h",
               "DocumentMoniker": "C:\\Users\\hkdav\\OneDrive\\Desktop\\Game_programming3\\Program\\Wardrobe.h",
               "RelativeDocumentMoniker": "Wardrobe.h",
@@ -310,7 +378,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "Transform.cpp",
               "DocumentMoniker": "C:\\Users\\hkdav\\OneDrive\\Desktop\\Game_programming3\\Program\\Transform.cpp",
               "RelativeDocumentMoniker": "Transform.cpp",
@@ -322,7 +390,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 22,
               "Title": "Furniture.h",
               "DocumentMoniker": "C:\\Users\\hkdav\\OneDrive\\Desktop\\Game_programming3\\Program\\Furniture.h",
               "RelativeDocumentMoniker": "Furniture.h",
@@ -334,7 +402,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 23,
               "Title": "Cabinet.h",
               "DocumentMoniker": "C:\\Users\\hkdav\\OneDrive\\Desktop\\Game_programming3\\Program\\Cabinet.h",
               "RelativeDocumentMoniker": "Cabinet.h",
@@ -346,7 +414,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 24,
               "Title": "Cabinet.cpp",
               "DocumentMoniker": "C:\\Users\\hkdav\\OneDrive\\Desktop\\Game_programming3\\Program\\Cabinet.cpp",
               "RelativeDocumentMoniker": "Cabinet.cpp",
@@ -358,7 +426,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\hkdav\\OneDrive\\Desktop\\Game_programming3\\Class6th (Abstract)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class6th (Abstract)\\Source.cpp",
@@ -370,7 +438,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\hkdav\\OneDrive\\Desktop\\Game_programming3\\Class5th (Polymorphism)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class5th (Polymorphism)\\Source.cpp",
@@ -382,7 +450,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 25,
               "Title": "Furniture.cpp",
               "DocumentMoniker": "C:\\Users\\hkdav\\OneDrive\\Desktop\\Game_programming3\\Program\\Furniture.cpp",
               "RelativeDocumentMoniker": "Furniture.cpp",
@@ -394,7 +462,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 26,
               "Title": "Wardrobe.cpp",
               "DocumentMoniker": "C:\\Users\\hkdav\\OneDrive\\Desktop\\Game_programming3\\Program\\Wardrobe.cpp",
               "RelativeDocumentMoniker": "Wardrobe.cpp",
@@ -406,7 +474,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 27,
               "Title": "Monster.h",
               "DocumentMoniker": "C:\\Users\\hkdav\\OneDrive\\Desktop\\Game_programming3\\Program\\Monster.h",
               "RelativeDocumentMoniker": "Monster.h",
@@ -418,7 +486,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 28,
               "Title": "Skeleton.cpp",
               "DocumentMoniker": "C:\\Users\\hkdav\\OneDrive\\Desktop\\Game_programming3\\Program\\Skeleton.cpp",
               "RelativeDocumentMoniker": "Skeleton.cpp",
@@ -430,7 +498,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 29,
               "Title": "Slime.cpp",
               "DocumentMoniker": "C:\\Users\\hkdav\\OneDrive\\Desktop\\Game_programming3\\Program\\Slime.cpp",
               "RelativeDocumentMoniker": "Slime.cpp",
@@ -442,7 +510,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 31,
               "Title": "Monster.cpp",
               "DocumentMoniker": "C:\\Users\\hkdav\\OneDrive\\Desktop\\Game_programming3\\Program\\Monster.cpp",
               "RelativeDocumentMoniker": "Monster.cpp",
@@ -454,7 +522,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 30,
               "Title": "Golem.cpp",
               "DocumentMoniker": "C:\\Users\\hkdav\\OneDrive\\Desktop\\Game_programming3\\Program\\Golem.cpp",
               "RelativeDocumentMoniker": "Golem.cpp",
